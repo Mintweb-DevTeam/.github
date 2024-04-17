@@ -1,3 +1,18 @@
-## Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DEV TEAM&fontSize=90" />
+# 프로젝트 변경 사항 예시
+
+## 2024-04-17
+
+🌟 **새로운 기능**:
+- 새로운 로그인 API 추가 📡 [자세히 보기](#)
+- 대시보드 리프레시 기능 향상 🔄
+
+🐛 **버그 수정**:
+- 데이터 동기화 문제 해결 [#1234](https://github.com/example/repo/issues/1234)
+- 로그인 페이지 로딩 속도 개선
+
+📄 **문서 개선**:
+- API 사용법 설명 추가
+- 개발 가이드라인 업데이트
+
+---
